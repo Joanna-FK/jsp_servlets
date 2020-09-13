@@ -1,0 +1,6 @@
+serwer\app\Formularz.class
+serwer\app\HelloEverybody.class
+serwer\app\ProductListServlet.class
+serwer\app\model\ProductDetails.class
+serwer\app\model\ProductStorage.class
+serwer\app\ProductServlet.class
